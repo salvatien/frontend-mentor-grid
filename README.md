@@ -1,5 +1,7 @@
 # Frontend Mentor - Testimonials grid section
 
+![Screenshot of the completed assignment](image-1.png)
+
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
